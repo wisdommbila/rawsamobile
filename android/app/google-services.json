@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "173755731673",
+    "project_id": "rawsa-76bd6",
+    "storage_bucket": "rawsa-76bd6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173755731673:android:28a9c95e10a20d835278c8",
+        "android_client_info": {
+          "package_name": "com.rawsa.mobile.rawsa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3wJ_oX033OILN-OfFDcEmGpWxYWYyVlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
